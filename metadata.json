@@ -1,0 +1,7 @@
+{
+  "name": "Present Time! - Romantic Surprise Cards",
+  "description": "A beautiful, romantic scratch-off app to reveal gifts and surprises for your loved one with realistic scratch-off physics and AI-generated sweet messages.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
